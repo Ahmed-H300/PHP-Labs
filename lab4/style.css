@@ -1,0 +1,29 @@
+body {
+  text-align: center;
+}
+
+.header__logo {
+  width: 50px;
+}
+
+.header__text {
+  display: inline;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+h2 {
+  color: #901b20;
+}
+
+#regform {
+  padding-left: 25%;
+  width: 50%;
+  text-align: left;
+}
+
+#label_specific {
+  display: inline;
+  margin-right: 50px;
+}
